@@ -7,3 +7,6 @@
 
 #### Rental Analysis
 #### The first step to building the dashboard is to work out all of the calculations and visualizations in an analysis notebook; then use it with Panel to create the final layout.
+
+#### Housing Units Per Year
+#### Use the rental_analysis.ipynb to calculate the number of housing units per year and visualize the results as a bar chart using the Pandas plot function.
