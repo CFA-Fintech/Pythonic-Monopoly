@@ -1,2 +1,2 @@
 # Unit-6-Homework
-Real State Rental Analysis with Interactive Dashboard Visualizations
+Real Estate Rental Analysis with Interactive Dashboard Visualizations
