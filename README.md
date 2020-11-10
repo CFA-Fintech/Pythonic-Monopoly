@@ -6,8 +6,7 @@
 #### The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental #### properties in San Francisco.
 
 #### Rental Analysis
-#### The first step to building the dashboard is to work out all of the calculations and visualizations in an analysis notebook; then use it with Panel to create the final 
-#### layout.
+#### The first step to building the dashboard is to work out all of the calculations and visualizations in an analysis notebook; then use it with Panel to create the final layout.
 
 #### Housing Units Per Year
 #### Use the rental_analysis.ipynb to calculate the number of housing units per year and visualize the results as a bar chart using the Pandas plot function.
@@ -28,8 +27,7 @@
 #### Use plotly express to create parallel coordinates and parallel categories visualizations so that investors can interactively filter and explore various factors related to  #### the sales price of the neighborhoods.
 
 #### Neighborhood Map.
-#### Read in neighborhood location data and build an interactive map with the average prices per neighborhood. Use a scatter mapbox object from plotly express to create the 
-#### visualization.
+#### Read in neighborhood location data and build an interactive map with the average prices per neighborhood. Use a scatter mapbox object from plotly express to create the visualization.
 
 #### Dashboard.
 #### Use the Panel library to build an interactive dashboard for all of the visualizations.
